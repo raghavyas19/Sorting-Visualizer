@@ -1,6 +1,6 @@
-# [SortingVisualizer]()
+# [SortingVisualizer](https://github.com/raghavyas19/Sorting-Visualizer)
 
-[Click here to see unicorns sorting rainbows!]()
+[Click here to see unicorns sorting rainbows!](https://raghavyas19.github.io/Sorting-Visualizer/)
 
 Welcome to the Sorting Visualizer! Ever wondered how unicorns sort rainbows? Well, wonder no more! In this magical sorting visualizer, witness the majestic unicorns sorting vibrant rainbows using the most enchanting sorting algorithms known to humankind.
 
